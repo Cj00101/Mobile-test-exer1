@@ -1,0 +1,9 @@
+HELLO TERMUX
+ls
+cd ../
+ls
+ls
+cd ../
+ls
+ls
+ls
